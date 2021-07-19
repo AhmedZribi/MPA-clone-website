@@ -1,0 +1,61 @@
+[
+    {
+        "id" : 1,
+        "earn" : "Earn $30",
+        "title" : "Intro to Blockchain",
+        "description" : "Blockchain Cryptocurrency Fundamentals",
+        "btn" : "Learn",
+        "size" : "8.3/10 Modules",
+        "percentage" : "83% Completed"
+    },
+
+    {
+        "id" : 2,
+        "earn" : "Earn $30",
+        "title" : "Intro to Blockchain",
+        "description" : "Blockchain Cryptocurrency Fundamentals",
+        "btn" : "Learn",
+        "size" : "8.3/10 Modules",
+        "percentage" : "83% Completed"
+    },
+
+    {
+        "id" : 3,
+        "earn" : "Earn $30",
+        "title" : "Intro to Blockchain",
+        "description" : "Blockchain Cryptocurrency Fundamentals",
+        "btn" : "Learn",
+        "size" : "8.3/10 Modules",
+        "percentage" : "83% Completed"
+    },
+
+    {
+        "id" : 4,
+        "earn" : "Earn $30",
+        "title" : "Intro to Blockchain",
+        "description" : "Blockchain Cryptocurrency Fundamentals",
+        "btn" : "Learn",
+        "size" : "8.3/10 Modules",
+        "percentage" : "83% Completed"
+    },
+
+    {
+        "id" : 5,
+        "earn" : "Earn $30",
+        "title" : "Intro to Blockchain",
+        "description" : "Blockchain Cryptocurrency Fundamentals",
+        "btn" : "Learn",
+        "size" : "8.3/10 Modules",
+        "percentage" : "83% Completed"
+    },
+
+    {
+        "id" : 6,
+        "earn" : "Earn $30",
+        "title" : "Intro to Blockchain",
+        "description" : "Blockchain Cryptocurrency Fundamentals",
+        "btn" : "Learn",
+        "size" : "8.3/10 Modules",
+        "percentage" : "83% Completed"
+    }
+]
